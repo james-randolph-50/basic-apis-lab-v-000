@@ -5,6 +5,8 @@ class RepositoriesController < ApplicationController
   end
 
   def github_search
-    client_id = ""
+    client_id = "854c39df2f866cd3f15c"
+    
+    
   end
 end
